@@ -4,8 +4,8 @@ import main.models.CoffeeMaker;
 
 import java.util.ArrayList;
 import java.util.List;
+import static main.Util.print;
 
-import static jdk.nashorn.internal.objects.Global.print;
 import static main.Demo.coffeeMakers;
 import static main.Util.getMediumPower;
 import static main.Util.getMediumPrice;

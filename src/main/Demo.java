@@ -5,7 +5,7 @@ import main.models.CoffeeMaker;
 import java.util.ArrayList;
 import java.util.List;
 
-import static jdk.nashorn.internal.objects.Global.print;
+import static main.Util.print;
 import static main.methods.FunctionValueAnalize.functionValueAnalize1;
 import static main.methods.FunctionValueAnalize.functionValueAnalize2;
 import static main.methods.MainCriterionMethod.mainCriterion;
